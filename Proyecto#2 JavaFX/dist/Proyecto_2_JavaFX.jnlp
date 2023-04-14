@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Proyecto_2_JavaFX.jnlp">
+  <information>
+    <title>Proyecto_2_JavaFX</title>
+    <vendor>HEWLETT PACKARD</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="proyecto.pkg2.javafx.Proyecto2JavaFX"  name="Proyecto_2_JavaFX" />
+  <update check="always"/>
+</jnlp>
